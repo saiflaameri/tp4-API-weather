@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "LJdOVwLZsnWLESNoILx1vYCMEll5Oq2ozhZ8krcyjswedMnQnJxhQ5e730LqaqVfrXNBNv1eGZVXCWvu58vgFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\laame\\source\\repos\\WebServiceTutorial\\WebServiceTutorial\\WebServiceTutorial.iOS\\WebServiceTutorial.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\laame\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\laame\\.nuget\\packages\\newtonsoft.json.schema\\3.0.14\\newtonsoft.json.schema.3.0.14.nupkg.sha512",
+    "C:\\Users\\laame\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
